@@ -1,6 +1,6 @@
 // config.js
 window.MRT_CONFIG = {
-  SHEETS_URL: 'https://script.google.com/macros/s/AKfycbySbIYESXF74p4QXK7BfKyLo8rLWXiMKa5b0jKB66DYLXGK6ZmptUSZmALr7w9ME15Tag/exec', // <-- replace this line
+  SHEETS_URL: 'https://script.google.com/a/macros/gallaudet.edu/s/AKfycbzouue7tSOqsBxgr2imn1-IDpUiQADfa7zsCRxsG0hdzh1OM1Pqw5Lr4Pv2NDgOjC1V/exec'
 
   // ===== Design =====
   ANGLES: [0, 30, 60, 90, 120, 150, 180],
